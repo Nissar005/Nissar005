@@ -39,7 +39,3 @@ I’m building hands-on skills around reliable software delivery, cloud infrastr
 - 🌐 Portfolio: https://nisarahmedsiddiqui.in/
 - 💼 LinkedIn: https://www.linkedin.com/in/nisar-ahmed-siddiqui/
 - 💻 GitHub: https://github.com/Nissar005
-
-<p align="left">
-  <img src="https://www.nisarahmedsiddiqui.in/nisar-ahmed-profile-2026.jpg?v=2" width="180" alt="Nisar Ahmed Siddiqui - DevOps Engineer" />
-</p>
